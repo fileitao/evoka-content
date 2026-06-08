@@ -160,16 +160,16 @@
       ]
     }
   ],
-  "awards": [
+"awards": [
     {
-      "id": "temp-track-vol1-complete",
+      "id": "temp-track-vol1",
       "title": "Temp Track Master",
       "description": "Completed all 7 days of the Temp Track Challenge Vol. 1",
       "medalImage": null
     },
     {
-      "id": "string-writing-challenge-complete",
-      "title": "String Architect",
+      "id": "string-writing-challenge",
+      "title": "String Writing Challenge",
       "description": "Completed all 5 days of the String Writing Challenge",
       "medalImage": "https://raw.githubusercontent.com/fileitao/evoka-content/main/stringwriting_medal.png"
     }
