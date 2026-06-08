@@ -171,7 +171,7 @@
       "id": "string-writing-challenge-complete",
       "title": "String Architect",
       "description": "Completed all 5 days of the String Writing Challenge",
-      "medalImage": null
+      "medalImage": "https://raw.githubusercontent.com/fileitao/evoka-content/main/stringwriting_medal.png"
     }
   ]
 }
