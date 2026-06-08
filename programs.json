@@ -132,9 +132,14 @@
           "insideTheScore": "In a real orchestra, no string player holds a note at a fixed dynamic. Every sustained note has shape — it grows, breathes, tapers. That movement is what makes live strings feel alive.\n\nIn a DAW, this is controlled by **CC1 (Modulation)** — drawn as automation in your piano roll or MIDI editor.\n\n**Shape long notes with CC1 automation.** Draw a modulation curve for each sustained note. Even a subtle swell and release transforms a flat sample into something that feels performed. Think of it as adding a breath to each note.\n\n**Use velocity for short articulations.** For staccato, spiccato, and pizzicato, velocity controls the attack intensity. High velocity feels accented and forward. Lower velocity feels softer and receding. Vary it to create a natural rhythmic feel.\n\n💡 Not all voices need to swell at the same time. Try having the Viola swell slightly while Violin I tapers. This creates inner movement and life within the texture, even when the harmony is static."
           "inlineVideos": [
               {
-              "afterParagraph": 0,
+              "afterParagraph": 1,
               "videoId": "Um-uxIC6FNg",
               "caption": "CC1 modulation in action"
+              },
+              {
+              "afterParagraph": 2,
+              "videoId": "xf7gk6X5dnE",
+              "caption": "Velocity for short articulations"
               }
             ]          
         },
