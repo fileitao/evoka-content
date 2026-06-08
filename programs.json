@@ -163,14 +163,14 @@
 "awards": [
     {
       "id": "temp-track-vol1",
-      "title": "Temp Track Master",
-      "description": "Completed all 7 days of the Temp Track Challenge Vol. 1",
+      "title": "Temp Track Challenge",
+      "description": "7 emotions · 7 compositions",
       "medalImage": null
     },
     {
       "id": "string-writing-challenge",
       "title": "String Writing Challenge",
-      "description": "Completed all 5 days of the String Writing Challenge",
+      "description": "5 concepts · 1 composition",
       "medalImage": "https://raw.githubusercontent.com/fileitao/evoka-content/main/stringwriting_medal.png"
     }
   ]
