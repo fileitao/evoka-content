@@ -6,10 +6,10 @@
       "category": "Composition",
       "title": "Temp Track Challenge",
       "subtitle": "Vol. 1",
-      "description": "7 emotions · 7 compositions, LIVE",
+      "description": "7 emotions · 7 compositions",
       "totalDays": 7,
       "thumbnailVideoId": "c56t7upa8Bk",
-      "introTitle": "What is a Temp Track?",
+      "introTitle": "About this challenge",
       "introText": "A temp track is a temporary piece of music that directors use to communicate the emotional direction they want for a scene — before the original score exists.\n\nAs a composer, learning to listen to a temp track is a skill. Your job is not to copy it, but to understand why it works emotionally — and then create something original that serves the same feeling.\n\nEach day of this challenge gives you a temp track reference and a specific compositional task. Listen first. Then compose.",
       "days": [
         {
@@ -91,7 +91,7 @@
       "subtitle": "",
       "description": "5 concepts · 1 composition",
       "totalDays": 5,
-      "introTitle": "About This Challenge",
+      "introTitle": "About this challenge",
       "introText": "Over 5 days you will write the same 4-bar chord progression — Am – F – C – G — adding one new layer of craft each day. By Day 5 you will have a complete string cue built from the ground up, one principle at a time.",
       "days": [
         {
