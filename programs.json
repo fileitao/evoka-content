@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "programs": [
+    {
+      "id": "temp-track-vol1",
+      "category": "Composition",
+      "title": "Temp Track Challenge",
+      "subtitle": "Vol. 1",
+      "description": "7 emotions · 7 compositions",
+      "totalDays": 7,
+      "thumbnailVideoId": "c56t7upa8Bk",
+      "introTitle": "What is a Temp Track?",
+      "introText": "A temp track is a temporary piece of music that directors use to communicate the emotional direction they want for a scene — before the original score exists.\n\nAs a composer, learning to listen to a temp track is a skill. Your job is not to copy it, but to understand why it works emotionally — and then create something original that serves the same feeling.\n\nEach day of this challenge gives you a temp track reference and a specific compositional task. Listen first. Then compose.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Epic Melancholy",
+          "track": "Time",
+          "composer": "Hans Zimmer",
+          "film": "Inception",
+          "videoId": "c56t7upa8Bk",
+          "task": "Write 60 seconds that capture the feeling of something that will never come back. Don't rush to the climax — let the emotion build slowly, layer by layer.",
+          "insideTheScore": "Notice how Zimmer builds density gradually over the same chord progression — electric guitar, piano, strings, brass, each entering one at a time. The orchestration grows full, but the harmony stays simple.\n\nTo capture this mood, stay in minor — natural minor for pure melancholy, or Dorian if you want a hint of hope (the IV chord becomes major, which opens up the emotional space).\n\nTry letting your melody emerge from the notes of the chords rather than writing a tune first. This is chord-based writing, not melody-based. Let the texture tell the story."
+        },
+        {
+          "day": 2,
+          "title": "Magic and Delicacy",
+          "track": "Ice Dance",
+          "composer": "Danny Elfman",
+          "film": "Edward Scissorhands",
+          "videoId": "fVHo4HNqKjM",
+          "task": "Write 60 seconds that feel enchanted and full of wonder. Think fantasy and romance — this is Elfman at his most tender.",
+          "insideTheScore": "Start with celesta as your foundation — it's the signature sound of wonder and magic in film scoring. Build from there: add lush high strings for warmth, harp for shimmer, and let the choir carry the melody.\n\nStay in a major key, but don't just use the I, IV, and V — the ii, iii, and vi chords are all minor, and moving through them adds emotional depth and longing without leaving the key.\n\nWrite a singable melody in the mid-to-higher register — stepwise motion with graceful leaps. Countermelodies in the strings under the choir will add lushness without crowding the texture."
+        },
+        {
+          "day": 3,
+          "title": "Building Tension",
+          "track": "Fission",
+          "composer": "Ludwig Göransson",
+          "film": "Oppenheimer",
+          "videoId": "vx7S3v7u7jY",
+          "task": "Write 60 seconds that build unease without ever resolving it. No melody, no rhythm, no release. Just texture growing denser and more unstable.",
+          "insideTheScore": "This is not about harmony or melody — it's about texture and production. Start with a single layer of long, sustained strings. Let the notes breathe and move slightly within themselves — small, almost imperceptible movements, like particles inside an atom.\n\nAdd layers gradually — more strings, pads, occasional harp. No clear tonal center. Let dissonance appear naturally as the layers stack. Use glissandos sparingly for moments of instability. Small synth points can punctuate the texture without becoming melodic.\n\nMost of the work here happens in your DAW, not on the score — automate volume, filter, and reverb across layers to create a slow, delicate accumulation of tension.\n\nFor evolving drones and cinematic textures that already move this way, check out [Eclipse by Filipe Leitão](https://www.filipeleitao.com/eclipse)"
+        },
+        {
+          "day": 4,
+          "title": "Lightness and Charm",
+          "track": "Books Are Cocktails",
+          "composer": "George Fenton",
+          "film": "You've Got Mail",
+          "videoId": "E_DXQjkmUQM",
+          "task": "Write 60 seconds that feel light and playful. No drama, no tension — just charm and a smile.",
+          "insideTheScore": "Fenton builds personality through rhythm and articulation more than melody. The texture here is intentionally sparse — bassoon staccato and pizzicato strings are the foundation. Light, bouncy, almost comedic. Add harpsichord and flute for color.\n\nKeep a steady, constant rhythm and tempo. The melody exists but it's not singable — it moves chromatically, almost sneaking through the harmony. Let chromaticism give it that slightly quirky, playful character.\n\nLeave room for brief moments of comedic pause — a sudden stop, a held breath, then back into the bounce. Those suspense-release moments are a classic comedy scoring technique."
+        },
+        {
+          "day": 5,
+          "title": "Vulnerability",
+          "track": "Awake",
+          "composer": "Ólafur Arnalds",
+          "film": "Surface",
+          "videoId": "y_O6V1DCqLc",
+          "task": "Write 60 seconds where less is always more. Let the layers breathe — they come and go, thicken and dissolve.",
+          "insideTheScore": "Start with pads as the foundation — minor mode, atmospheric. The piano enters with sparse notes, mostly thirds, simple and unhurried. Solo cello carries the organic warmth, floating above the texture.\n\nKeep the harmony minimal — just two chords. The tension comes from the texture, not the harmony. Add synth particles for movement — subtle, detuned moments of brief dissonance inside the layers, almost imperceptible. A hybrid rhythmic element gives the music a quiet pulse without becoming a beat.\n\nThe layers come and go. Let the texture thicken naturally, then pull back. The organic feel lives in the piano and cello — everything else is atmosphere.\n\nArnalds uses very few notes. Resist the urge to fill the space — the silence is part of the composition. Stay in a minor key but avoid drama. This is not sad — it's vulnerable. There's a difference. Keep the dynamic low throughout. Nothing should feel forced or over-composed."
+        },
+        {
+          "day": 6,
+          "title": "Urgency and Action",
+          "track": "Assassin Fight",
+          "composer": "John Powell",
+          "film": "The Bourne Identity",
+          "videoId": "kZFtqm9t04M",
+          "task": "Write 60 seconds of music that never stops. Create constant movement — no breathing room, no resolution.",
+          "insideTheScore": "Powell builds urgency through rhythm and orchestration, not melody. Start with a big drum pattern — toms, metals, nothing classical or orchestral. Raw and physical from the first beat.\n\nAdd hybrid synths with a rhythmic, percussive character. Syncopation and unexpected accents shift the downbeat constantly. This creates a sense of disorientation and danger without the listener knowing exactly why.\n\nHarmony is almost nonexistent — just a pedal tone alternating between a few notes. No clear chords. The rhythmic texture is the music.\n\nBuild in blocks of contrast — a technique typical of action scoring. A dense section, then a sudden drop, then back in harder. Keep a constant pulse underneath everything.\n\nAvoid anything lyrical — this is pure kinetic energy.\n\n💡 The drum sounds in this cue are not orchestral — they are raw, physical, and heavily processed. If you want that kind of percussion in your own work, [Strike Drums](https://www.filipeleitao.com/strikedrums) was built exactly for this. Hybrid drums designed for film and media composers."
+        },
+        {
+          "day": 7,
+          "title": "Reflective and Grand",
+          "track": "With All The Angels",
+          "composer": "Hans Zimmer",
+          "film": "Hidden Figures",
+          "videoId": "Yr3Tn-DBx_4",
+          "task": "Write 60 seconds that feel reflective and still — with moments of contained grandeur that emerge naturally from the texture.",
+          "insideTheScore": "Start with piano — gentle, unhurried. Let the chords breathe, moving slowly, not on every beat. The emotion lives in the voicing, not in a pre-composed melody. Let the harmony speak for itself.\n\nHigh strings enter as a pedal — sustained, warm, supporting without moving. As the texture grows, add a female vocal, almost improvised, no lyrics, purely cinematic. Then motion elements that suggest harp — a sense of light and forward movement.\n\nStay in a clear major tonality. This music is resolved and open — not searching, not dramatic. The grandeur appears briefly, then recedes back into stillness."
+        }
+      ]
+    },
+    {
+      "id": "string-writing-challenge",
+      "category": "Orchestration",
+      "title": "String Writing Challenge",
+      "subtitle": "",
+      "description": "5 concepts · 1 composition",
+      "totalDays": 5,
+      "introTitle": "About This Challenge",
+      "introText": "Over 5 days you will write the same 4-bar chord progression — Am – F – C – G — adding one new layer of craft each day. By Day 5 you will have a complete string cue built from the ground up, one principle at a time.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Roles & Register",
+          "composer": "",
+          "film": "",
+          "videoId": null,
+          "chartType": "string-roles",
+          "task": "1. Write 4 bars using **Am – F – C – G**\n2. Assign one role to each section. No overlapping, no doubling yet\n3. Use only long notes. Focus on who plays what and where",
+          "insideTheScore": "A professional string sound comes from how musical information is distributed across the family, not from the library itself.\n\n**Violin I** sits high. Bright, agile, the melodic carrier. The most common mistake is using it as a constant harmonic pad in the mid register. Let it lead.\n\n**Violin II** sits mid-high. Its job is inner harmony and subtle motion. Avoid doubling Violin I in unison. Doubling an octave below or a sixth below are common and effective choices.\n\n**Viola** sits in the middle. Warm, dark, the glue between upper and lower strings. Write it too low and it loses clarity.\n\n**Cello** sits low to mid. Deep, expressive, flexible. Its job here is the bass line. Resist locking it only to root position notes. Give it shape.\n\n**Contrabass** sits below the Cello, always. Foundation and weight. Avoid too much motion or mid-range writing.\n\nIf you don't have a string library yet, **[Spitfire LABS](https://labs.spitfireaudio.com)** and **[Berlin Free Orchestra](https://www.orchestraltools.com/berlin-free-orchestra)** are free and include the main articulations."
+        },
+        {
+          "day": 2,
+          "title": "Voice Leading",
+          "composer": "",
+          "film": "",
+          "videoId": null,
+          "task": "1. Return to what you wrote on Day 1\n2. Look at how each voice moves from chord to chord\n3. Where can a voice stay on the same note instead of jumping? Where can it move by step instead of leaping?\n4. Revise each voice with smooth, intentional motion",
+          "insideTheScore": "Good voice leading is what separates a professional string arrangement from an amateur one.\n\n**Common tones.** When two adjacent chords share a note, keep that voice on the same pitch. In Am – F, for example, the note C is common to both chords. Let it stay.\n\n**Stepwise motion.** When a voice must move, prefer motion by step over leaps. Leaps are fine, but use them intentionally. They draw attention.\n\n**Open spacing in the low register.** Strings sound best with open intervals, especially below the staff. Avoid close harmony between Cello and Viola in a low register. The lower you go, the wider the intervals should be.\n\nThink of the upper strings as free to be closer together, and the lower strings as needing space to breathe."
+        },
+        {
+          "day": 3,
+          "title": "Articulation",
+          "composer": "",
+          "film": "",
+          "videoId": null,
+          "task": "1. Take what you wrote on Days 1 and 2\n2. Write the same 4 bars twice — first in legato, then with a different articulation of your choice\n3. Listen to how the emotional character changes without a single note being different",
+          "insideTheScore": "Articulation is one of the most powerful tools in string writing, and one of the most ignored in sample library work.\n\n**Legato.** Smooth, connected phrases. The default emotional language of strings — warmth, continuity, singing quality.\n\n**Staccato.** Short, separated notes. Useful for rhythmic passages and lighter textures.\n\n**Spiccato.** Off-the-string staccato — the bow bounces with each note. More energetic and playful. Common in faster, lighter passages.\n\n**Pizzicato.** The string is plucked, not bowed. Intimate, delicate, percussive depending on context.\n\n**Sul tasto.** Bowing over the fingerboard produces a softer, flute-like sound with less body. Useful for ethereal, distant textures.\n\n**Sul ponticello.** Bowing near the bridge creates a glassy, dissonant, slightly unsettling sound. Very effective for tension and unease.\n\n💡 You can combine multiple articulations within the same passage. For example: Violin I in legato carrying the melody while Cello and Viola provide an arpeggiated accompaniment in pizzicato. The same chord progression can feel like a lullaby or a threat depending entirely on articulation."
+        },
+        {
+          "day": 4,
+          "title": "Shape & Dynamics",
+          "composer": "",
+          "film": "",
+          "videoId": null,
+          "task": "1. Return to your Day 2 version — voice leading, no articulation yet\n2. Draw CC1 (Modulation) automation curves for every long note in your piano roll\n3. No note should stay at the same volume from start to finish\n4. Choose where each note swells, where it retreats, and how each voice breathes",
+          "insideTheScore": "In a real orchestra, no string player holds a note at a fixed dynamic. Every sustained note has shape — it grows, breathes, tapers. That movement is what makes live strings feel alive.\n\nIn a DAW, this is controlled by **CC1 (Modulation)** — drawn as automation in your piano roll or MIDI editor.\n\n**Shape long notes with CC1 automation.** Draw a modulation curve for each sustained note. Even a subtle swell and release transforms a flat sample into something that feels performed. Think of it as adding a breath to each note.\n\n**Use velocity for short articulations.** For staccato, spiccato, and pizzicato, velocity controls the attack intensity. High velocity feels accented and forward. Lower velocity feels softer and receding. Vary it to create a natural rhythmic feel.\n\n💡 Not all voices need to swell at the same time. Try having the Viola swell slightly while Violin I tapers. This creates inner movement and life within the texture, even when the harmony is static."
+        },
+        {
+          "day": 5,
+          "title": "Full Texture",
+          "composer": "",
+          "film": "",
+          "videoId": null,
+          "task": "1. Expand your progression to 60 seconds\n2. Apply everything from this week — clear roles, open spacing, smooth voice leading, expressive articulation, and CC1 automation on every long note\n3. This is your cue. It should sound like something you would place in a film",
+          "insideTheScore": "You have been building this cue piece by piece. Today you assemble it.\n\nBefore you start, make a plan:\n\n• Who has the melody throughout? Does it stay in Violin I, or does it pass to the Cello for contrast?\n• Where does the texture grow and where does it thin out? A professional cue breathes.\n• What articulation defines the character of this cue?\n• Where are the moments of inner motion — a Viola countermelody, a Cello moving while the upper strings hold?\n\n💡 Write the Cello line first. It anchors everything above it. Once the bass moves with shape and intention, the rest of the section falls into place more naturally.\n\nWhen you finish, listen back and ask: does every note feel intentional? Is there anything just filling space? Remove it. In string writing, silence and restraint are as powerful as density.",
+          "references": [
+            {
+              "videoId": "3x0r69SuW0Y",
+              "title": "Impromptu for Strings Op. 5",
+              "composer": "Jean Sibelius"
+            },
+            {
+              "videoId": "CRcbDMg56yg",
+              "title": "Serenade for Strings",
+              "composer": "Antonín Dvořák"
+            },
+            {
+              "videoId": "vn3OdaQtSNY",
+              "title": "String Quartet Op. 18 No. 4, Mvt. 1",
+              "composer": "Ludwig van Beethoven"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
