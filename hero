@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "heroCards": [
+    {
+      "id": "string-writing-promo",
+      "type": "promo",
+      "label": "New Challenge",
+      "title": "String Writing",
+      "subtitle": "5 days. One progression.",
+      "image": "https://raw.githubusercontent.com/fileitao/evoka-content/main/stringwriting_medal.png",
+      "programId": "string-writing-challenge",
+      "accentColor": "#8B5CF6"
+    }
+  ]
+}
