@@ -180,7 +180,7 @@
       ],
       "title": "No Melody Challenge",
       "subtitle": "",
-      "description": "3 days. No melody. Pure texture and harmony.",
+      "description": "3 days · No melody · Pure texture.",
       "totalDays": 3,
       "thumbnailImage": "https://raw.githubusercontent.com/fileitao/evoka-content/main/nomelody_cover_vertical.jpeg",
       "introTitle": "About this challenge",
@@ -194,16 +194,16 @@
           "videoId": null,
           "task": "1. Write 30 seconds using only sustained layers — strings, pads, or drones\n2. No voice should carry a melodic line — no direction, no phrase, no tune\n3. Automate volume or filter on at least one layer to create movement within the texture",
           "insideTheScore": "Melody implies direction. The moment a sound wants to go somewhere, it becomes a melody. Your job today is to remove that pull entirely — but that doesn't mean static.\n\nA living texture breathes. Use CC1 automation, filter sweeps, or slow volume curves to make layers swell and recede. Let micro-rhythms and subtle dissonances appear inside the sustained sound. Small intervallic tensions between layers — a minor second, a tritone held quietly underneath — create unease without ever suggesting a tune.\n\n**The test:** if you hummed what you wrote, would it sound like a tune? If yes, you have a melody. Remove it. What remains should feel like atmosphere with an inner life.\n\n💡 If you want evolving drones and cinematic textures that already move this way — layers with built-in automation and micro-movement — [Eclipse](https://www.filipeleitao.com/eclipse) was built for exactly this kind of writing.",
-          "references": [
+          "inlineVideos": [
             {
-              "videoId": "vx7S3v7u7jY",
-              "title": "Fission",
-              "composer": "Ludwig Göransson"
+            "afterParagraph": 2,
+            "videoId": "vx7S3v7u7jY",
+            "caption": "Fission — Ludwig Göransson"
             },
             {
-              "videoId": "y_O6V1DCqLc",
-              "title": "Awake",
-              "composer": "Ólafur Arnalds"
+            "afterParagraph": 2,
+            "videoId": "y_O6V1DCqLc",
+            "caption": "Awake — Ólafur Arnalds"
             }
           ]
         },
@@ -268,7 +268,7 @@
     {
       "id": "no-melody-challenge",
       "title": "No Melody Challenge",
-      "description": "3 days. No melody. Pure texture and harmony.",
+      "description": "3 days · No melody · Pure texture",
       "medalImage": "https://raw.githubusercontent.com/fileitao/evoka-content/main/nomelodychallenge_medal.png"
     }
   ]
