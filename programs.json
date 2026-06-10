@@ -2,85 +2,91 @@
   "version": 1,
   "programs": [
     {
-      "id": "temp-track-vol1",
-      "category": "Composition",
-      "title": "Temp Track Challenge",
-      "subtitle": "Vol. 1",
-      "description": "7 emotions · 7 compositions",
-      "totalDays": 7,
-      "thumbnailVideoId": "c56t7upa8Bk",
-      "introTitle": "About this challenge",
-      "introText": "A temp track is a temporary piece of music that directors use to communicate the emotional direction they want for a scene — before the original score exists.\n\nAs a composer, learning to listen to a temp track is a skill. Your job is not to copy it, but to understand why it works emotionally — and then create something original that serves the same feeling.\n\nEach day of this challenge gives you a temp track reference and a specific compositional task. Listen first. Then compose.",
-      "days": [
-        {
-          "day": 1,
-          "title": "Epic Melancholy",
-          "track": "Time",
-          "composer": "Hans Zimmer",
-          "film": "Inception",
-          "videoId": "c56t7upa8Bk",
-          "task": "Write 60 seconds that capture the feeling of something that will never come back. Don't rush to the climax — let the emotion build slowly, layer by layer.",
-          "insideTheScore": "Notice how Zimmer builds density gradually over the same chord progression — electric guitar, piano, strings, brass, each entering one at a time. The orchestration grows full, but the harmony stays simple.\n\nTo capture this mood, stay in minor — natural minor for pure melancholy, or Dorian if you want a hint of hope (the IV chord becomes major, which opens up the emotional space).\n\n💡 Try letting your melody emerge from the notes of the chords rather than writing a tune first. This is chord-based writing, not melody-based. Let the texture tell the story."
-        },
-        {
-          "day": 2,
-          "title": "Magic and Delicacy",
-          "track": "Ice Dance",
-          "composer": "Danny Elfman",
-          "film": "Edward Scissorhands",
-          "videoId": "fVHo4HNqKjM",
-          "task": "Write 60 seconds that feel enchanted and full of wonder. Think fantasy and romance — this is Elfman at his most tender.",
-          "insideTheScore": "Start with celesta as your foundation — it's the signature sound of wonder and magic in film scoring. Build from there: add lush high strings for warmth, harp for shimmer, and let the choir carry the melody.\n\nStay in a major key, but don't just use the I, IV, and V — the ii, iii, and vi chords are all minor, and moving through them adds emotional depth and longing without leaving the key.\n\nWrite a singable melody in the mid-to-higher register — stepwise motion with graceful leaps. Countermelodies in the strings under the choir will add lushness without crowding the texture."
-        },
-        {
-          "day": 3,
-          "title": "Building Tension",
-          "track": "Fission",
-          "composer": "Ludwig Göransson",
-          "film": "Oppenheimer",
-          "videoId": "vx7S3v7u7jY",
-          "task": "Write 60 seconds that build unease without ever resolving it. No melody, no rhythm, no release. Just texture growing denser and more unstable.",
-          "insideTheScore": "This is not about harmony or melody — it's about texture and production. Start with a single layer of long, sustained strings. Let the notes breathe and move slightly within themselves — small, almost imperceptible movements, like particles inside an atom.\n\nAdd layers gradually — more strings, pads, occasional harp. No clear tonal center. Let dissonance appear naturally as the layers stack. Use glissandos sparingly for moments of instability. Small synth points can punctuate the texture without becoming melodic.\n\nMost of the work here happens in your DAW, not on the score — automate volume, filter, and reverb across layers to create a slow, delicate accumulation of tension.\n\n💡 For evolving drones and cinematic textures that already move this way, check out [Eclipse by Filipe Leitão](https://www.filipeleitao.com/eclipse)"
-        },
-        {
-          "day": 4,
-          "title": "Lightness and Charm",
-          "track": "Books Are Cocktails",
-          "composer": "George Fenton",
-          "film": "You've Got Mail",
-          "videoId": "E_DXQjkmUQM",
-          "task": "Write 60 seconds that feel light and playful. No drama, no tension — just charm and a smile.",
-          "insideTheScore": "Fenton builds personality through rhythm and articulation more than melody. The texture here is intentionally sparse — bassoon staccato and pizzicato strings are the foundation. Light, bouncy, almost comedic. Add harpsichord and flute for color.\n\nKeep a steady, constant rhythm and tempo. The melody exists but it's not singable — it moves chromatically, almost sneaking through the harmony. Let chromaticism give it that slightly quirky, playful character.\n\nLeave room for brief moments of comedic pause — a sudden stop, a held breath, then back into the bounce. Those suspense-release moments are a classic comedy scoring technique."
-        },
-        {
-          "day": 5,
-          "title": "Vulnerability",
-          "track": "Awake",
-          "composer": "Ólafur Arnalds",
-          "film": "Surface",
-          "videoId": "y_O6V1DCqLc",
-          "task": "Write 60 seconds where less is always more. Let the layers breathe — they come and go, thicken and dissolve.",
-          "insideTheScore": "Start with pads as the foundation — minor mode, atmospheric. The piano enters with sparse notes, mostly thirds, simple and unhurried. Solo cello carries the organic warmth, floating above the texture.\n\nKeep the harmony minimal — just two chords. The tension comes from the texture, not the harmony. Add synth particles for movement — subtle, detuned moments of brief dissonance inside the layers, almost imperceptible. A hybrid rhythmic element gives the music a quiet pulse without becoming a beat.\n\nThe layers come and go. Let the texture thicken naturally, then pull back. The organic feel lives in the piano and cello — everything else is atmosphere.\n\nArnalds uses very few notes. Resist the urge to fill the space — the silence is part of the composition. Stay in a minor key but avoid drama. This is not sad — it's vulnerable. There's a difference. Keep the dynamic low throughout. Nothing should feel forced or over-composed."
-        },
-        {
-          "day": 6,
-          "title": "Urgency and Action",
-          "track": "Assassin Fight",
-          "composer": "John Powell",
-          "film": "The Bourne Identity",
-          "videoId": "kZFtqm9t04M",
-          "task": "Write 60 seconds of music that never stops. Create constant movement — no breathing room, no resolution.",
-          "insideTheScore": "Powell builds urgency through rhythm and orchestration, not melody. Start with a big drum pattern — toms, metals, nothing classical or orchestral. Raw and physical from the first beat.\n\nAdd hybrid synths with a rhythmic, percussive character. Syncopation and unexpected accents shift the downbeat constantly. This creates a sense of disorientation and danger without the listener knowing exactly why.\n\nHarmony is almost nonexistent — just a pedal tone alternating between a few notes. No clear chords. The rhythmic texture is the music.\n\nBuild in blocks of contrast — a technique typical of action scoring. A dense section, then a sudden drop, then back in harder. Keep a constant pulse underneath everything.\n\nAvoid anything lyrical — this is pure kinetic energy.\n\n💡 The drum sounds in this cue are not orchestral — they are raw, physical, and heavily processed. If you want that kind of percussion in your own work, [Strike Drums](https://www.filipeleitao.com/strikedrums) was built exactly for this. Hybrid drums designed for film and media composers."
-        },
-        {
-          "day": 7,
-          "title": "Reflective and Grand",
-          "track": "With All The Angels",
-          "composer": "Hans Zimmer",
-          "film": "Hidden Figures",
-          "videoId": "Yr3Tn-DBx_4",
-          "task": "Write 60 seconds that feel reflective and still — with moments of contained grandeur that emerge naturally from the texture.",
-          "insideTheScore": "Start with piano — gentle, unhurried. Let the chords breathe, moving slowly, not on every beat. The emotion lives in the voicing, not in a pre-composed melody. Let the harmony speak for itself.\n\nHigh strings enter as a pedal — sustained, warm, supporting without moving. As the texture grows, add a female vocal, almost improvised, no lyrics, purely cinematic. Then motion elements that suggest harp — a sense of light and forward movement.\n\nStay in a clear major tonality. This music is resolved and open — not searching, not dramatic. The grandeur appears briefly, then recedes back into stillness."
+  "id": "temp-track-vol1",
+  "category": "Composition",
+  "title": "Temp Track Challenge",
+  "subtitle": "Vol. 1",
+  "description": "7 emotions · 7 compositions",
+  "totalDays": 7,
+  "thumbnailVideoId": "c56t7upa8Bk",
+  "introTitle": "About this challenge",
+  "introText": "A temp track is a temporary piece of music that directors use to communicate the emotional direction they want for a scene — before the original score exists.\n\nAs a composer, learning to listen to a temp track is a skill. Your job is not to copy it, but to understand why it works emotionally — and then create something original that serves the same feeling.\n\nEach day of this challenge gives you a temp track reference and a specific compositional task. Listen first. Then compose.",
+  "creator": {
+    "name": "Filipe Leitão",
+    "bio": "Film composer, educator, and Associate Professor at Virginia Commonwealth University.",
+    "website": "https://www.filipeleitao.com",
+    "photo": "https://raw.githubusercontent.com/fileitao/evoka-content/main/assets/filipe-circle.png"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": "Epic Melancholy",
+      "track": "Time",
+      "composer": "Hans Zimmer",
+      "film": "Inception",
+      "videoId": "c56t7upa8Bk",
+      "task": "Write 60 seconds that capture the feeling of something that will never come back. Don't rush to the climax — let the emotion build slowly, layer by layer.",
+      "insideTheScore": "Notice how Zimmer builds density gradually over the same chord progression — electric guitar, piano, strings, brass, each entering one at a time. The orchestration grows full, but the harmony stays simple.\n\nTo capture this mood, stay in minor — natural minor for pure melancholy, or Dorian if you want a hint of hope (the IV chord becomes major, which opens up the emotional space).\n\n💡 Try letting your melody emerge from the notes of the chords rather than writing a tune first. This is chord-based writing, not melody-based. Let the texture tell the story."
+    },
+    {
+      "day": 2,
+      "title": "Magic and Delicacy",
+      "track": "Ice Dance",
+      "composer": "Danny Elfman",
+      "film": "Edward Scissorhands",
+      "videoId": "fVHo4HNqKjM",
+      "task": "Write 60 seconds that feel enchanted and full of wonder. Think fantasy and romance — this is Elfman at his most tender.",
+      "insideTheScore": "Start with celesta as your foundation — it's the signature sound of wonder and magic in film scoring. Build from there: add lush high strings for warmth, harp for shimmer, and let the choir carry the melody.\n\nStay in a major key, but don't just use the I, IV, and V — the ii, iii, and vi chords are all minor, and moving through them adds emotional depth and longing without leaving the key.\n\nWrite a singable melody in the mid-to-higher register — stepwise motion with graceful leaps. Countermelodies in the strings under the choir will add lushness without crowding the texture."
+    },
+    {
+      "day": 3,
+      "title": "Building Tension",
+      "track": "Fission",
+      "composer": "Ludwig Göransson",
+      "film": "Oppenheimer",
+      "videoId": "vx7S3v7u7jY",
+      "task": "Write 60 seconds that build unease without ever resolving it. No melody, no rhythm, no release. Just texture growing denser and more unstable.",
+      "insideTheScore": "This is not about harmony or melody — it's about texture and production. Start with a single layer of long, sustained strings. Let the notes breathe and move slightly within themselves — small, almost imperceptible movements, like particles inside an atom.\n\nAdd layers gradually — more strings, pads, occasional harp. No clear tonal center. Let dissonance appear naturally as the layers stack. Use glissandos sparingly for moments of instability. Small synth points can punctuate the texture without becoming melodic.\n\nMost of the work here happens in your DAW, not on the score — automate volume, filter, and reverb across layers to create a slow, delicate accumulation of tension.\n\n💡 For evolving drones and cinematic textures that already move this way, check out [Eclipse by Filipe Leitão](https://www.filipeleitao.com/eclipse)"
+    },
+    {
+      "day": 4,
+      "title": "Lightness and Charm",
+      "track": "Books Are Cocktails",
+      "composer": "George Fenton",
+      "film": "You've Got Mail",
+      "videoId": "E_DXQjkmUQM",
+      "task": "Write 60 seconds that feel light and playful. No drama, no tension — just charm and a smile.",
+      "insideTheScore": "Fenton builds personality through rhythm and articulation more than melody. The texture here is intentionally sparse — bassoon staccato and pizzicato strings are the foundation. Light, bouncy, almost comedic. Add harpsichord and flute for color.\n\nKeep a steady, constant rhythm and tempo. The melody exists but it's not singable — it moves chromatically, almost sneaking through the harmony. Let chromaticism give it that slightly quirky, playful character.\n\nLeave room for brief moments of comedic pause — a sudden stop, a held breath, then back into the bounce. Those suspense-release moments are a classic comedy scoring technique."
+    },
+    {
+      "day": 5,
+      "title": "Vulnerability",
+      "track": "Awake",
+      "composer": "Ólafur Arnalds",
+      "film": "Surface",
+      "videoId": "y_O6V1DCqLc",
+      "task": "Write 60 seconds where less is always more. Let the layers breathe — they come and go, thicken and dissolve.",
+      "insideTheScore": "Start with pads as the foundation — minor mode, atmospheric. The piano enters with sparse notes, mostly thirds, simple and unhurried. Solo cello carries the organic warmth, floating above the texture.\n\nKeep the harmony minimal — just two chords. The tension comes from the texture, not the harmony. Add synth particles for movement — subtle, detuned moments of brief dissonance inside the layers, almost imperceptible. A hybrid rhythmic element gives the music a quiet pulse without becoming a beat.\n\nThe layers come and go. Let the texture thicken naturally, then pull back. The organic feel lives in the piano and cello — everything else is atmosphere.\n\nArnalds uses very few notes. Resist the urge to fill the space — the silence is part of the composition. Stay in a minor key but avoid drama. This is not sad — it's vulnerable. There's a difference. Keep the dynamic low throughout. Nothing should feel forced or over-composed."
+    },
+    {
+      "day": 6,
+      "title": "Urgency and Action",
+      "track": "Assassin Fight",
+      "composer": "John Powell",
+      "film": "The Bourne Identity",
+      "videoId": "kZFtqm9t04M",
+      "task": "Write 60 seconds of music that never stops. Create constant movement — no breathing room, no resolution.",
+      "insideTheScore": "Powell builds urgency through rhythm and orchestration, not melody. Start with a big drum pattern — toms, metals, nothing classical or orchestral. Raw and physical from the first beat.\n\nAdd hybrid synths with a rhythmic, percussive character. Syncopation and unexpected accents shift the downbeat constantly. This creates a sense of disorientation and danger without the listener knowing exactly why.\n\nHarmony is almost nonexistent — just a pedal tone alternating between a few notes. No clear chords. The rhythmic texture is the music.\n\nBuild in blocks of contrast — a technique typical of action scoring. A dense section, then a sudden drop, then back in harder. Keep a constant pulse underneath everything.\n\nAvoid anything lyrical — this is pure kinetic energy.\n\n💡 The drum sounds in this cue are not orchestral — they are raw, physical, and heavily processed. If you want that kind of percussion in your own work, [Strike Drums](https://www.filipeleitao.com/strikedrums) was built exactly for this. Hybrid drums designed for film and media composers."
+    },
+    {
+      "day": 7,
+      "title": "Reflective and Grand",
+      "track": "With All The Angels",
+      "composer": "Hans Zimmer",
+      "film": "Hidden Figures",
+      "videoId": "Yr3Tn-DBx_4",
+      "task": "Write 60 seconds that feel reflective and still — with moments of contained grandeur that emerge naturally from the texture.",
+      "insideTheScore": "Start with piano — gentle, unhurried. Let the chords breathe, moving slowly, not on every beat. The emotion lives in the voicing, not in a pre-composed melody. Let the harmony speak for itself.\n\nHigh strings enter as a pedal — sustained, warm, supporting without moving. As the texture grows, add a female vocal, almost improvised, no lyrics, purely cinematic. Then motion elements that suggest harp — a sense of light and forward movement.\n\nStay in a clear major tonality. This music is resolved and open — not searching, not dramatic. The grandeur appears briefly, then recedes back into stillness."
         }
       ]
     },
