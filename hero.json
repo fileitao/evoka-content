@@ -1,10 +1,10 @@
 {
   "version": 2,
   "heroItems": [
+    { "type": "goal", "id": "More Heroic" },
     { "type": "goal", "id": "More Energy" },
     { "type": "goal", "id": "More Emotion" },
     { "type": "goal", "id": "More Tension" },
-    { "type": "goal", "id": "More Heroic" },
     { "type": "goal", "id": "More Romantic" },
     { "type": "goal", "id": "More Playful" },
     { "type": "goal", "id": "Bigger Sound" },
