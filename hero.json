@@ -1,9 +1,19 @@
 {
-  "version": 1,
-  "heroCards": [
+  "version": 2,
+  "heroItems": [
+    { "type": "goal", "id": "More Energy" },
+    { "type": "goal", "id": "More Emotion" },
+    { "type": "goal", "id": "More Tension" },
+    { "type": "goal", "id": "More Heroic" },
+    { "type": "goal", "id": "More Romantic" },
+    { "type": "goal", "id": "More Playful" },
+    { "type": "goal", "id": "Bigger Sound" },
+    { "type": "goal", "id": "More Movement" },
+    { "type": "goal", "id": "More Clarity" },
+    { "type": "goal", "id": "More Magical" },
     {
-      "id": "string-writing-promo",
       "type": "promo",
+      "id": "string-writing-promo",
       "label": "New Challenge",
       "title": "String Writing",
       "subtitle": "5 days. One progression.",
@@ -12,8 +22,8 @@
       "accentColor": "#8B5CF6"
     },
     {
-      "id": "no-melody-promo",
       "type": "promo",
+      "id": "no-melody-promo",
       "label": "New Challenge",
       "title": "No Melody",
       "subtitle": "3 days. Pure texture and harmony.",
