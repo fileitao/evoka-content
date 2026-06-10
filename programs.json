@@ -263,7 +263,7 @@
       "id": "temp-track-vol1",
       "title": "Temp Track Challenge",
       "description": "7 emotions · 7 compositions",
-      "medalImage": null
+      "medalImage": "https://raw.githubusercontent.com/fileitao/evoka-content/main/temptrack_medal.png"
     },
     {
       "id": "string-writing-challenge",
