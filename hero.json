@@ -10,6 +10,16 @@
       "image": "https://raw.githubusercontent.com/fileitao/evoka-content/main/string-writing-hero.jpeg",
       "programId": "string-writing-challenge",
       "accentColor": "#8B5CF6"
+    },
+    {
+      "id": "no-melody-promo",
+      "type": "promo",
+      "label": "New Challenge",
+      "title": "No Melody",
+      "subtitle": "3 days. Pure texture and harmony.",
+      "image": "https://raw.githubusercontent.com/fileitao/evoka-content/main/nomelody_cover_vertical.jpeg",
+      "programId": "no-melody-challenge",
+      "accentColor": "#2a3a5c"
     }
   ]
 }
