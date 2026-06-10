@@ -1,0 +1,37 @@
+[
+  {
+    "id": "free-resources",
+    "title": "Free Resources",
+    "subtitle": "Download free cinematic music tools and guides.",
+    "icon": "download",
+    "url": "https://www.filipeleitao.com/free?utm_source=evoka"
+  },
+  {
+    "id": "blog",
+    "title": "Blog",
+    "subtitle": "Read practical articles on film scoring, orchestration, and music production.",
+    "icon": "book-open",
+    "url": "https://www.filipeleitao.com/blog?utm_source=evoka"
+  },
+  {
+    "id": "cueflow",
+    "title": "CueFlow",
+    "subtitle": "Explore CueFlow for cinematic scoring maps, creative direction, and composition workflows.",
+    "icon": "compass",
+    "url": "https://cueflow.studio"
+  },
+  {
+    "id": "store",
+    "title": "Store",
+    "subtitle": "Explore cinematic sample libraries and music tools.",
+    "icon": "shopping-bag",
+    "url": "https://www.filipeleitao.com/store?utm_source=evoka"
+  },
+  {
+    "id": "feedback",
+    "title": "1-on-1 Feedback",
+    "subtitle": "Need help applying this to your own music? Book a 1-on-1 session and get personal feedback on your track.",
+    "icon": "message-circle",
+    "url": "https://www.filipeleitao.com/contact?utm_source=evoka"
+  }
+]
