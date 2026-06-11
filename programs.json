@@ -1,6 +1,166 @@
 {
   "version": 1,
   "programs": [
+
+
+    {
+  "id": "ostinato-challenge",
+  "category": "Composition",
+  "title": "The Ostinato Challenge",
+  "subtitle": "",
+  "description": "5 days · One pattern · Infinite tension",
+  "totalDays": 5,
+  "thumbnailImage": null,
+  "introTitle": "About this challenge",
+  "introText": "An ostinato is a short, repeating musical pattern — the engine that drives some of the most powerful moments in film music. Jaws. The Dark Knight. Inception. Mission: Impossible. The tension in these scores doesn't come from complex harmony or elaborate melody. It comes from one pattern, repeated with intention.\n\nOver 5 days you will build a complete cue from the ground up — starting with the pattern itself, then adding tension, chromatic harmony, a break, and finally assembling everything into a finished piece of music.",
+  "creator": {
+    "name": "Filipe Leitão",
+    "bio": "Film composer, educator, and Associate Professor at Virginia Commonwealth University.",
+    "website": "https://www.filipeleitao.com",
+    "photo": "https://raw.githubusercontent.com/fileitao/evoka-content/main/assets/filipe-circle.png"
+  },
+  "days": [
+    {
+      "day": 1,
+      "title": "The Pattern",
+      "composer": "",
+      "film": "",
+      "videoId": null,
+      "task": "1. Start with rhythm — tap a pattern before you touch your DAW. Something you could tap on a table and immediately feel as urgent or inevitable\n2. Now assign notes to that rhythm. Don't think in scales yet — think in intervals. How far does each note move from the last?\n3. Loop it for 30 seconds. Does it feel like an engine? Does it make you want to hear what comes next?",
+      "insideTheScore": "An ostinato is not just a repeated note. It's a musical engine — something that drives the music forward without needing to go anywhere harmonically.\n\nStart with the rhythm. The rhythmic identity of your ostinato is what the listener will feel first — before they process any harmony or melody. [Jaws](https://www.youtube.com/watch?v=BePfzCOMRZQ) works because of its rhythm as much as its two notes. The Dark Knight's cello pattern is three notes, but it's the relentless subdivision that creates dread.\n\nOnce you have a rhythm that feels solid, add pitch. Keep the intervals small — minor seconds and repeated notes create tension naturally. A minor second (one semitone) between two notes sounds unstable, unresolved. Repeating the same pitch several times before moving creates anticipation. You don't need a scale. Chromatic movement is enough.\n\n**What makes a strong ostinato:**\n- A clear rhythmic character — syncopated, straight, or off-beat\n- Small intervals — minor seconds, minor thirds, or repeated notes\n- A range of no more than a fifth — wide leaps lose the sense of inevitability\n- A register that leaves room for everything else — low strings or low piano work best as the foundation\n\n[Bach's Prelude in C](https://www.youtube.com/watch?v=gVah1cr3pU0) is an arpeggio that never changes — the harmonic movement happens above and around it, but the pattern itself is the engine. The power is not in the complexity. It's in the inevitability.\n\n💡 Don't try to make it interesting yet. Make it solid. The ostinato should feel like it could repeat forever without the listener wanting it to stop.",
+      "references": [
+        {
+          "videoId": "BePfzCOMRZQ",
+          "title": "Jaws Main Theme",
+          "composer": "John Williams"
+        },
+        {
+          "videoId": "gVah1cr3pU0",
+          "title": "Prelude in C Major, BWV 846",
+          "composer": "J.S. Bach"
+        },
+        {
+          "videoId": "KjShkVqz2a4",
+          "title": "Why So Serious?",
+          "composer": "Hans Zimmer & James Newton Howard (The Dark Knight)"
+        },
+        {
+          "videoId": "bfctlt7UOnY",
+          "title": "Mars Colony",
+          "composer": "Jeff Russo (For All Mankind)"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Tension Through Repetition",
+      "composer": "",
+      "film": "",
+      "videoId": null,
+      "task": "1. Take the ostinato from Day 1\n2. Build 30 seconds using only the same pattern — no new notes, no new harmony, no drones\n3. Start with the ostinato alone. End somewhere more intense. Everything in between is your craft.",
+      "insideTheScore": "Repetition itself creates tension. The listener hears the pattern loop once, twice, three times — and starts to feel something is coming. Your job today is to use that expectation as a compositional tool, without adding anything new.\n\n**Velocity and syncopation:**\nVelocity is not just about loudness — it's about feel. When every note has the same velocity, the pattern sounds mechanical. When you vary it, the pattern starts to breathe and swing. A note with lower velocity on the downbeat and higher velocity on an off-beat creates syncopation without changing a single pitch. Experiment with velocity curves across the pattern — you'll find the ostinato becomes more interesting, more alive, without any new material.\n\n**Density without new notes:**\nAdding a second instrument doesn't mean adding a new line. It can mean:\n- A second voice entering with just one note of the ostinato, then dropping out — emphasizing that note above the others\n- An instrument that plays only the first two notes of the pattern, then disappears, then returns\n- Two instruments trading the same motif in different registers, never quite lining up\n\nThese micro-entries create accents, surprise, and a sense of multiple forces at work — all from the same pattern.\n\n**Register and dynamics:**\nMoving the ostinato or new entries into higher registers increases tension physiologically. A slow, controlled crescendo across 30 seconds is more powerful than a sudden loud moment.\n\nListen to how [Dream Is Collapsing](https://www.youtube.com/watch?v=OzLhXesNkCI) from Inception uses a guitar and string ostinato with minimal harmonic movement — the tension comes entirely from density and register, not from new material.\n\n💡 For low strings with the weight and articulation to carry a driving ostinato — percussive attacks, natural accent response, and the kind of body that sits under everything else — [Strike Strings](https://www.filipeleitao.com/strikestrings) and [Forge Low Strings](https://www.filipeleitao.com/forgelowstrings) were built for exactly this. For spiccato articulations, [Helix by Orchestral Tools](https://www.orchestraltools.com/helix) is free and responds naturally to velocity and attack.",
+      "references": [
+        {
+          "videoId": "OzLhXesNkCI",
+          "title": "Dream Is Collapsing",
+          "composer": "Hans Zimmer (Inception)"
+        },
+        {
+          "videoId": "FV3imEpdQM8",
+          "title": "The Phantom",
+          "composer": "Lorne Balfe (Mission: Impossible — Dead Reckoning)"
+        },
+        {
+          "videoId": "J-NLG925VH4",
+          "title": "Montage",
+          "composer": "Jeff Russo (For All Mankind)"
+        },
+        {
+          "videoId": "HxHSKCLbOvo",
+          "title": "Launch",
+          "composer": "Hans Zimmer (Hidden Figures)"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Chromatic Harmony Over a Fixed Ostinato",
+      "composer": "",
+      "film": "",
+      "videoId": null,
+      "task": "1. Keep your ostinato from Day 1 as a fixed pedal in the low or mid register\n2. Write a series of chords above it that move chromatically — include chords that don't belong to the key\n3. The ostinato never changes. The harmony above it moves freely. Let the friction between them create the emotion.",
+      "insideTheScore": "This is one of the most powerful techniques in film scoring. The ostinato creates relentless momentum — it sounds inevitable, unstoppable. The chords above it create surprise, color, and emotional shift without ever breaking the rhythm.\n\nJohn Williams uses this constantly. In [Jaws](https://www.youtube.com/watch?v=BePfzCOMRZQ), the two-note ostinato stays fixed while the orchestra builds chromatic dissonance above it. In [Duel of the Fates](https://www.youtube.com/watch?v=D_2bluVPsb0), a rhythmic pattern in the low strings anchors rapid, non-diatonic chord changes in the brass and choir. The listener feels both things at once — the ground is solid, but the sky is unpredictable.\n\n**Chords as colors, not harmony:**\nForget functional harmony here. Don't think about whether the chord belongs to a key or resolves to something. Think about the friction it creates against the ostinato.\n\nIf E is a central note in your ostinato — one of its most prominent pitches — then Fm, F#m, and Gm placed above it will create immediate tension. They clash with E. That clash is the point. These chords are not meant to resolve. They are colors — short, accented, staccato or marcato. They land and move on before the ear can settle.\n\nMove chromatically between chords — a half-step up or down. The ear accepts the movement because the ostinato provides continuity below. The ground stays solid. The chords can be as strange as you want.\n\n**Brass accents:**\nThis is where brass enters. Short, hard accents — sforzando or marcato attacks — land each chromatic chord like a punctuation mark. Place your brass accents on the unexpected chords, not the expected ones. The surprise is the point.\n\n💡 Doubling brass accents with xylophone or snare adds a percussive edge that reinforces the attack without adding weight. Williams uses this constantly — the xylophone gives the accent a sharper, more defined transient that cuts through the texture.\n\n💡 For brass that delivers real weight on short, aggressive accents — the kind of attack that cuts through low strings without sounding thin — [Forge Trumpet](https://www.filipeleitao.com/forgetrumpet) was built for exactly this. Hard attacks, natural decay, cinematic body.",
+      "references": [
+        {
+          "videoId": "D_2bluVPsb0",
+          "title": "Duel of the Fates",
+          "composer": "John Williams (Star Wars: The Phantom Menace)"
+        },
+        {
+          "videoId": "BePfzCOMRZQ",
+          "title": "Jaws Main Theme",
+          "composer": "John Williams"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Breaking the Pattern",
+      "composer": "",
+      "film": "",
+      "videoId": null,
+      "task": "1. Write 30 seconds with your ostinato running\n2. Break it — but maintain the tension. The break is not a rest. It's a shift.\n3. Return to the ostinato quickly — same pattern, or adapted: different tempo, different time signature, or a variation of the original",
+      "insideTheScore": "Knowing when to break the ostinato is as important as knowing how to build it. But the break is not silence — it's a momentary shift in texture that keeps the listener on edge before pulling them back in.\n\nThis is the language of action and suspense scoring. Dense ostinato block — short break — ostinato returns, harder or changed. Repeat. The blocks create momentum. The breaks create anticipation. Together they build unbearable tension.\n\n**What happens during the break:**\nThe ostinato stops, but the tension doesn't. Under the break, keep a sustained dissonant texture — strings held on a cluster, a low pad, a breath of brass. Something that says: it's not over. The rhythmic pulse can continue underneath, faintly — lighter instruments, a quiet subdivision, just enough to keep the engine running at low power.\n\nThe break must be short. Two to four bars at most. Long enough for the listener to feel the absence, short enough that they never fully relax.\n\n**Returning differently:**\nThe ostinato that returns doesn't have to be identical. Try:\n- The same pattern at a faster tempo — more urgency\n- A different time signature — 5/4 or 7/8 instead of 4/4 creates immediate disorientation\n- A variation of the original motif — same rhythmic identity, different notes\n\nEach return feels like an escalation.\n\n**Percussion at the break:**\nA single tímpano hit, a bass drum accent, or a cymbal swell just before the cut marks the transition without announcing it. The percussion makes the break feel inevitable in retrospect.\n\n[No Time for Caution](https://www.youtube.com/watch?v=kpK4cDk2bRs) from Interstellar is a masterclass in this — the organ ostinato builds relentlessly, breaks, and returns with even more weight. [Docking Procedure Test](https://www.youtube.com/watch?v=7VoulMvA-kY) from For All Mankind uses a marimba-like ostinato with swells and drones that create exactly this kind of sustained tension through breaks.\n\n💡 These short suspense breaks are practically a genre of their own in action scoring. Williams, Zimmer, and Powell all use this structure — dense ostinato block, brief dissonant pause, return harder than before. Listen for it and you'll hear it everywhere.",
+      "references": [
+        {
+          "videoId": "kpK4cDk2bRs",
+          "title": "No Time for Caution",
+          "composer": "Hans Zimmer (Interstellar)"
+        },
+        {
+          "videoId": "f-YJ3qpRCyY",
+          "title": "Enter Paris",
+          "composer": "Max Aruj & Alfie Godfrey (Mission: Impossible — The Final Reckoning)"
+        },
+        {
+          "videoId": "7VoulMvA-kY",
+          "title": "Docking Procedure Test",
+          "composer": "Jeff Russo (For All Mankind)"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Full Cue",
+      "composer": "",
+      "film": "",
+      "videoId": null,
+      "task": "1. Write a complete 60-second cue using everything from this week\n2. It must have: a clear ostinato, a build through density and velocity, at least one chromatic harmonic movement, and one intentional break with a return\n3. The cue should feel like it belongs in a film",
+      "insideTheScore": "You have spent four days building the tools. Today you use all of them together.\n\nBefore you start, make a plan:\n\n**Structure first:**\nMap out your 60 seconds before you write a single note. A simple structure might look like this — ostinato alone for 8 bars, density builds over the next 8, chromatic chords enter, a short break at bar 20, ostinato returns harder, final push to the end. The exact structure is yours. But having a plan prevents you from filling 60 seconds with continuous intensity and wondering why it feels flat.\n\n💡 [CueFlow](https://cueflow.studio) is built exactly for this kind of planning — map your cue structure, emotional arc, and instrumentation before you open your DAW. It turns the plan into a visual scoring map you can follow while you write.\n\n**Layering and synthesis:**\nNot everything needs to play all the time. A brass accent that enters only on the chromatic chords is more powerful than brass that plays throughout. A percussion hit that marks the break is more effective than constant percussion.\n\nSynths are not just texture — they're rhythm. A low synth doubling the ostinato with a different articulation, a rhythmic bass synth running underneath the strings, a staccato synth line that reinforces the accents — these add a hybrid score energy that sits between the acoustic and the electronic. The ostinato becomes denser without adding new pitches.\n\n[Assassin Fight](https://www.youtube.com/watch?v=kZFtqm9t04M) from The Bourne Identity is a perfect example — John Powell builds the cue almost entirely from percussion and synth-based elements, raw and physical, with the ostinato as the rhythmic spine. No orchestral writing. Pure kinetic energy.\n\n💡 For evolving synth textures and hybrid rhythmic elements that already have movement and tension built in — [Eclipse](https://www.filipeleitao.com/eclipse) gives you the raw material. The energy is already there. Your job is to shape it around the ostinato.\n\n**The break and return:**\nPlan exactly where the break falls. It should feel inevitable — the listener shouldn't see it coming, but when it arrives it should feel right. The return after the break is your climax. Make it count.\n\n💡 Write the ostinato first. Then build the cue around it. The pattern should feel like it was always there — everything else serves it.",
+      "references": [
+        {
+          "videoId": "BePfzCOMRZQ",
+          "title": "Jaws Main Theme",
+          "composer": "John Williams"
+        },
+        {
+          "videoId": "kZFtqm9t04M",
+          "title": "Assassin Fight",
+          "composer": "John Powell (The Bourne Identity)"
+        },
+        {
+          "videoId": "zu2JmLlRvTA",
+          "title": "Powdered Milk",
+          "composer": "Jeff Russo (For All Mankind)"
+        }
+      ]
+    }
+  ]
+},
+
+
+
+    
     {
   "id": "temp-track-vol1",
   "category": "Composition",
@@ -276,6 +436,12 @@
       "title": "No Melody Challenge",
       "description": "3 days · No melody · Pure texture",
       "medalImage": "https://raw.githubusercontent.com/fileitao/evoka-content/main/nomelodychallenge_medal.png"
+    },
+    {
+      "id": "ostinato-challenge",
+      "title": "The Ostinato Challenge",
+      "description": "5 days · One pattern · Infinite tension",
+      "medalImage": null
     }
   ]
 }
